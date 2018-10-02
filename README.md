@@ -8,6 +8,7 @@ Amazon Alexa Skills Lambda Functions
 - Cricket Plus 
 - Ted Inspirations 
 - Share Feelings (May Skill) 
+- Code practice
 
 ## Language
 - Python
